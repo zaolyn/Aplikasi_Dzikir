@@ -1,7 +1,6 @@
-package com.regadeveloper.dzikirsantuy;
+package com.Faza.Dzikir;
 
 import android.content.Context;
-import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.VibrationEffect;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.regadeveloper.dzikirsantuy">
+    package="com.Faza.Dzikir">
 
     <uses-permission android:name="android.permission.VIBRATE" />
     <application
@@ -10,11 +10,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DzikirSetelahSolat"/>
-        <activity android:name=".DzikirPagiFragment" />
-        <activity android:name=".DzikirPetangFragment" />
-        <activity android:name=".MainScreen" />
-        <activity android:name=".MainActivity"
+        <activity android:name="com.Faza.Dzikir.DzikirSetelahSolat"/>
+        <activity android:name="com.Faza.Dzikir.DzikirPagiFragment" />
+        <activity android:name="com.Faza.Dzikir.DzikirPetangFragment" />
+        <activity android:name="com.Faza.Dzikir.MainScreen" />
+        <activity android:name="com.Faza.Dzikir.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

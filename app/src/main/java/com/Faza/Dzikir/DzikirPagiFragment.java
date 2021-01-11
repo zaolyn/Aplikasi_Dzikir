@@ -1,10 +1,10 @@
-package com.regadeveloper.dzikirsantuy;
+package com.Faza.Dzikir;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import static com.regadeveloper.dzikirsantuy.R.layout.activity_dzikir_pagi_fragment;
+import static com.Faza.Dzikir.R.layout.activity_dzikir_pagi_fragment;
 
 public class DzikirPagiFragment extends AppCompatActivity {
 

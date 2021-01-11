@@ -1,4 +1,4 @@
-package com.regadeveloper.dzikirsantuy;
+package com.Faza.Dzikir;
 
 import androidx.appcompat.app.AppCompatActivity;
 
